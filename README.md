@@ -6,7 +6,7 @@ Enter the thrilling universe of **Roblox Clicker**, a casual clicker game crafte
 
 Your goal is straightforward: click to earn as much Robux as you can and strive to become a Robux gazillionaire!
 
-![Kiwi Clicker](https://game.playclickergames.org/202502102241781.jpeg)
+![Roblox Clicker](https://game.playclickergames.org/202502102241781.jpeg)
 
 ## How to Play
 
